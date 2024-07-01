@@ -16,5 +16,5 @@ Ohana is a Streamlit-based chatbot powered by the Geminipro API, designed to pro
 - **Documentation and Support**: Includes clear documentation and support resources.
 
 
-### Features
+### Demo
 -**Link to app**:https://ohanachatbot.streamlit.app/
